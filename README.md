@@ -1,2 +1,2 @@
 # hello-world
-First one
+First one, creating intelligence
